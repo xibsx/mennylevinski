@@ -44,4 +44,4 @@
   </picture>
 </div>
 
-<br> [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mennylevinski&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br> [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mennylevinski&theme=github-compact)](https://github.com/xibsx/github-readme-activity-graph)
